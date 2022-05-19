@@ -1,8 +1,9 @@
 * {
-  color: white;
+  
 }
 
 .header {
+  color: white;
   padding: 10px;
   height: 60px;
   display: flex;
@@ -20,4 +21,8 @@
 .searchInput{
   height: 30px;
   width: 600px;
+}
+
+.logo{
+  object-fit: cover;
 }
