@@ -1,5 +1,5 @@
 * {
-  
+
 }
 
 .header {
@@ -25,4 +25,17 @@
 
 .logo{
   object-fit: cover;
+}
+
+.header_nav{
+
+  padding-left: 10px;
+  display: flex;
+  justify-content:flex-end;
+  gap: 30px;
+}
+
+.header__basketCount{
+  color: aliceblue;
+
 }
